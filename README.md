@@ -47,7 +47,6 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 **Objective:**
 
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
-f833cbb-5060-44cd-bb20-149250f1d432)
 
 
 
