@@ -1,1 +1,43 @@
-# BANK-LOAN-ANALYSIS
+![image](https://github.com/BaoNguyen1367/BANK-LOAN-ANALYSIS/assets/166355585/2678f994-26c0-4899-b4db-980638708af7)# BANK-LOAN-ANALYSIS
+
+The report has 3 parts: Summary, Overview, and Detail and it provides a view of 5 important financial indicators and related factors
+
+DASHBOARD 1: SUMMARY
+
+Key Performance Indicators (KPIs) Requirements:
+
+**Total Loan Applications:** We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
+**Total Funded Amount:** Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
+**Total Amount Received:** Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
+**Average Interest Rate:** Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
+**Average Debt-to-Income Ratio (DTI):** Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
+
+**Good Loan v Bad Loan KPI’s**
+
+**Loan Status Grid View**
+
+DASHBOARD 2: OVERVIEW
+
+CHARTS
+**1. Monthly Trends by Issue Date (Line Chart):** To identify seasonality and long-term trends in lending activities
+**2. Top 3 region by Loan Applications (Pie Map):** To identify regions with significant lending activity and assess regional disparities
+**3. Loan Term Analysis (Donut Chart):** To allow the client to understand the distribution of loans across various term lengths.
+**4. Employee Length Analysis (Bar Chart):** How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+**5. Loan Purpose Breakdown (Bar Chart):** Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+**6. Home Ownership Analysis (Tree Map):** For a hierarchical view of how homeownership impacts loan applications and disbursements.
+Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'
+
+
+DASHBOARD 3: 
+
+**GRID**
+Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
+
+**Objective:**
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+f833cbb-5060-44cd-bb20-149250f1d432)
+
+
+
+
+
